@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seleccion Multiple</string>
+    <string name="pregunta">¿Aquien pondrias en tu equipo?(Selecciona 3)</string>
+    <string name="shakira">Shakira</string>
+    <string name="lionen">Lionel Messi</string>
+    <string name="peyton">Peyton Manny</string>
+    <string name="rihana">Rihanna</string>
+    <string name="cristiano">Cristiano Ronaldo</string>
+</resources>
